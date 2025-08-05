@@ -1,4 +1,5 @@
 # Dorian Carballo Ulloa
+<img src="assets/foto_mia.jpg" alt="Foto_mía" width="200px"> 
 
 ## Brief Description
 Soy estudiante de Biología apasionado por la hidrología, herpetofauna, aves y murciélagos. Constantemente motivado por aprender más sobre la biodiversidad, con un fuerte interés en contribuir a la educación ambiental y promover la conservación de especies.
@@ -17,7 +18,8 @@ Soy estudiante de Biología apasionado por la hidrología, herpetofauna, aves y 
    Cuidado, baño y manejo de especies domésticas.
 
 ## Projects
-* Monitoreo de fauna silvestre con cámaras trampa  
+* Monitoreo de fauna silvestre con cámaras trampa
+* Monitoreo de murcielagos a traves de redes de niebla y bioacustica
 * Educación ambiental en contextos urbanos y rurales  
 * Participación en simposios y talleres científicos  
 
@@ -44,9 +46,13 @@ Soy estudiante de Biología apasionado por la hidrología, herpetofauna, aves y 
 * **ORCID**: [0009-0006-5233-0687](https://orcid.org/0009-0006-5233-0687)
 
 ---
+# Algunos de mis trabajos 
+
+<video width="480" height="320" controls>
+  <source src="videos/mi_video.mp4" type="video/mp4">
+</video>
 
 
 
-[Visita GitHub](https://github.com)
 
-![Foto mía](assets/foto-mia.jpg)
+[Visita GitHub][https://github.com/DorianCarballoU/Dorian_CarballoU.github.io]
