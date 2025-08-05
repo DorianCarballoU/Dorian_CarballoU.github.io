@@ -49,7 +49,7 @@ Soy estudiante de Biología apasionado por la hidrología, herpetofauna, aves y 
 # Algunos de mis trabajos 
 
 <video width="480" height="320" controls>
-  <source src="videos/mi_video.mp4" type="video/mp4">
+  <source src="videos/mi_video" type="video/mp4">
 </video>
 
 
