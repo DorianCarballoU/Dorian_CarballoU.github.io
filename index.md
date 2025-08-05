@@ -41,7 +41,7 @@ Soy estudiante de Biología apasionado por la hidrología, herpetofauna, aves y 
 
 ## Contact Information
 * **Correo electrónico**: dorian.carballo.ulloa@gmail.com  
-* **Teléfono**: 7073-6385  
+* **Teléfono**: +506 7073-6385  
 * **Instagram**: [@dorian.cu](https://instagram.com/dorian.cu)  
 * **ORCID**: [0009-0006-5233-0687](https://orcid.org/0009-0006-5233-0687)
 
