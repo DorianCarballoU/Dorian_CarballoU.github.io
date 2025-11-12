@@ -1,0 +1,1 @@
+Bachelor’s degree in Tropical Biology, with a main focus on bats, herpetofauna, hydrology, and birds, including research in ecology, species distribution, environmental education, and conservation of tropical ecosystems.
