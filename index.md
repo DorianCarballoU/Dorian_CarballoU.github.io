@@ -47,6 +47,15 @@ I am a biology student passionate about hydrology, herpetofauna, birds, and bats
 ---
 # Some of My Work 
 
+### Figure 1. Comparison of habitat suitability for *Artibeus lituratus* according to the GLM and Maxnet models, using a color gradient to represent habitat suitability. In the GLM panel, red dots indicate species occurrences, while in the Maxnet panel, black dots indicate species occurrences.
+<img src="assets/panel_glm_maxnet.png" alt="Arti" width="300px"> 
+
+### Figure 2. Hotspots of native ash (*Fraxinus spp.*) based on occurrence records available at calflora.org.
+<img src="assets/ashtree_density_new.jpg" alt="Ash" width="300px"> 
+
+### Figure 3. Cantonal distribution of *Craugastor fitzingeri* observations in Costa Rica.
+<img src="assets/Craugastor_fitzingeri_observation_cantones.jpg " alt="Crau" width="300px"> 
+
 <video width="480" height="320" controls>
   <source src="videos/mi_video" type="video/mp4">
 </video>
