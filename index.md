@@ -56,8 +56,5 @@ I am a biology student passionate about hydrology, herpetofauna, birds, and bats
 ### Figure 3. Cantonal distribution of *Craugastor fitzingeri* observations in Costa Rica.
 <img src="assets/Craugastor_fitzingeri_observation_cantones.jpg " alt="Crau" width="300px"> 
 
-<video width="480" height="320" controls>
-  <source src="videos/mi_video" type="video/mp4">
-</video>
 
 [Visit GitHub](https://github.com/DorianCarballoU/Dorian_CarballoU.github.io)
